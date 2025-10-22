@@ -2,10 +2,15 @@
 Discord bot that answers like a pirate
 
 Update the .env with your bot token and the key from OpenAI
-Token for the discord bot: https://discord.com/developers/applications
+Token for the discord bot: https://discord.com/developers/applications<br>
 OpenAI key: https://platform.openai.com/account/api-keys
 
-discord_only: the bot says hello
-mybot: the bot answers like a pirate
+# the bot says hello
+To start the bot, run the following commands:
+python discord_only.py
 
-Before running mybot, enable the modules listed in requirements.txt with the command: pip install -r requirements.txt 
+# the pirate bot (make sure you install openai listed in requirements.txt first
+run the following commands:
+pip install -r requirements.txt
+python mybot.py
+
