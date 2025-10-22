@@ -7,11 +7,11 @@ Token for the discord bot: https://discord.com/developers/applications<br>
 OpenAI key: https://platform.openai.com/account/api-keys
 
 # hello bot
-To start the bot, run the following commands:
+To start the bot, run the following commands:<br>
 python discord_only.py
 
 # pirate bot 
-run the following commands:
-pip install -r requirements.txt
+run the following commands:<br>
+pip install -r requirements.txt<br>
 python mybot.py
 
