@@ -17,7 +17,7 @@ def call_openai(question):
         messages=[
              {
                  "role": "user",
-                 "content": f"Respond like a mermaid to the following question:  {question}",
+                 "content": f"Respond like a pirate to the following question:  {question}",
             },
         ]
     )
